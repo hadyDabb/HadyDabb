@@ -1,2 +1,2 @@
 # HadyDabb
-all my Java work
+This code is © (Copyright) HadyDabb, A.K.A. Hamzat Hassan and is licensed under GPL V2. This file may be used in any non-commercial or commercial project as long as the following conditions are met: You may not claim this code as being your own. You may not use this code for any harmful, malicious or otherwise damaging programs. You must attribute it to Hamzat Hassan appropriately and include this paragraph.
